@@ -40,3 +40,32 @@
 .read-the-docs {
   color: #888;
 }
+
+body{
+  background-color: cornflowerblue;
+}
+
+.App {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color:antiquewhite;
+  color: black;
+  padding: 2rem;
+  border-radius: 50%;
+}
+
+p {
+  font-size: larger;
+}
+
+.chosen {
+  font-size: larger;
+  background-color: burlywood;
+  padding: 1rem;
+  text-align: center;
+  border-radius: 2rem;
+  font-weight: bolder;
+}
+
+li {
+  list-style: none;
+}
